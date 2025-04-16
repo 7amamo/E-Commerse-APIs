@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\E-Commerce  Project\\E-Commerce Project\\wwwroot\\Images\\Products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\hat-core1.png"
+    },
+    {
+      "Id": "D:\\E-Commerce  Project\\E-Commerce Project\\wwwroot\\Images\\Products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\hat-react1.png"
+    },
+    {
+      "Id": "D:\\E-Commerce  Project\\E-Commerce Project\\wwwroot\\Images\\Products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\hat-react2.png"
+    },
+    {
+      "Id": "D:\\E-Commerce  Project\\E-Commerce Project\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-ang1.png"
+    },
+    {
+      "Id": "D:\\E-Commerce  Project\\E-Commerce Project\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-ang2.png"
+    },
+    {
+      "Id": "D:\\E-Commerce  Project\\E-Commerce Project\\wwwroot\\Images\\Products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-core1.png"
+    },
+    {
+      "Id": "D:\\E-Commerce  Project\\E-Commerce Project\\wwwroot\\Images\\Products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-core2.png"
+    },
+    {
+      "Id": "D:\\E-Commerce  Project\\E-Commerce Project\\wwwroot\\Images\\Products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-react1.png"
+    },
+    {
+      "Id": "D:\\E-Commerce  Project\\E-Commerce Project\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\sb-ts1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-Commerce Project.props",
+      "PackagePath": "build\\E-Commerce Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce Project.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce Project.props",
+      "PackagePath": "buildTransitive\\E-Commerce Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

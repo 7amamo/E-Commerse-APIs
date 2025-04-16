@@ -1,0 +1,170 @@
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\appsettings.Development.json
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\appsettings.json
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\E-Commerce Project.exe
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\E-Commerce Project.deps.json
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\E-Commerce Project.runtimeconfig.json
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\E-Commerce Project.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\E-Commerce Project.pdb
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\AutoMapper.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Azure.Core.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Azure.Identity.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Humanizer.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Build.Locator.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Workspaces.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.Options.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Extensions.Primitives.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Logging.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.OpenApi.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.SqlServer.Server.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Mono.TextTemplating.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Newtonsoft.Json.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Pipelines.Sockets.Unofficial.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\StackExchange.Redis.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Stripe.net.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.ClientModel.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.CodeDom.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Composition.AttributedModel.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Composition.Convention.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Composition.Hosting.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Composition.Runtime.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Composition.TypedParts.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Configuration.ConfigurationManager.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Formats.Asn1.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.IO.Pipelines.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Memory.Data.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Runtime.Caching.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Text.Encodings.Web.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\System.Text.Json.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Core.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\InfraStructure.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Services.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\InfraStructure.pdb
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Services.pdb
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\Core.pdb
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commerce Project.csproj.AssemblyReference.cache
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commerce Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commerce Project.AssemblyInfoInputs.cache
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commerce Project.AssemblyInfo.cs
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commerce Project.csproj.CoreCompileInputs.cache
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commerce Project.MvcApplicationPartsAssemblyInfo.cs
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commerce Project.MvcApplicationPartsAssemblyInfo.cache
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\staticwebassets.build.json
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\staticwebassets.development.json
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\staticwebassets\msbuild.E-Commerce Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\staticwebassets\msbuild.build.E-Commerce Project.props
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Project.props
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\staticwebassets\msbuild.buildTransitive.E-Commerce Project.props
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\staticwebassets.pack.json
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\scopedcss\bundle\E-Commerce Project.styles.css
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commer.70DC8055.Up2Date
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commerce Project.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\refint\E-Commerce Project.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commerce Project.pdb
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\E-Commerce Project.genruntimeconfig.cache
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\ref\E-Commerce Project.dll
+D:\E-Commerce  Project\E-Commerce Project\bin\Release\net8.0\win-x64\E-Commerce Project.staticwebassets.runtime.json

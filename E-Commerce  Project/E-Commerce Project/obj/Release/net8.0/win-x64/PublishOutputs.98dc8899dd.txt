@@ -1,0 +1,66 @@
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\E-Commerce Project.exe
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.json
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\E-Commerce Project.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\E-Commerce Project.runtimeconfig.json
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\E-Commerce Project.pdb
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\AutoMapper.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Azure.Core.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Azure.Identity.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Options.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Identity.Client.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.SqlServer.Server.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Pipelines.Sockets.Unofficial.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\StackExchange.Redis.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Stripe.net.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.ClientModel.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.Formats.Asn1.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.IO.Pipelines.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.Memory.Data.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.Runtime.Caching.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.Text.Encodings.Web.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\System.Text.Json.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.SNI.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Core.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\InfraStructure.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Services.dll
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\InfraStructure.pdb
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Services.pdb
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\Core.pdb
+D:\E-Commerce  Project\E-Commerce Project\obj\Release\net8.0\win-x64\PubTmp\Out\E-Commerce Project.deps.json

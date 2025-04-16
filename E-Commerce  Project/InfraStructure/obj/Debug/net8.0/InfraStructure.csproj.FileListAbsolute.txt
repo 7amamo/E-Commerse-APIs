@@ -1,0 +1,15 @@
+D:\E-Commerce  Project\InfraStructure\bin\Debug\net8.0\InfraStructure.deps.json
+D:\E-Commerce  Project\InfraStructure\bin\Debug\net8.0\InfraStructure.dll
+D:\E-Commerce  Project\InfraStructure\bin\Debug\net8.0\InfraStructure.pdb
+D:\E-Commerce  Project\InfraStructure\bin\Debug\net8.0\Core.dll
+D:\E-Commerce  Project\InfraStructure\bin\Debug\net8.0\Core.pdb
+D:\E-Commerce  Project\InfraStructure\obj\Debug\net8.0\InfraStructure.csproj.AssemblyReference.cache
+D:\E-Commerce  Project\InfraStructure\obj\Debug\net8.0\InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce  Project\InfraStructure\obj\Debug\net8.0\InfraStructure.AssemblyInfoInputs.cache
+D:\E-Commerce  Project\InfraStructure\obj\Debug\net8.0\InfraStructure.AssemblyInfo.cs
+D:\E-Commerce  Project\InfraStructure\obj\Debug\net8.0\InfraStructure.csproj.CoreCompileInputs.cache
+D:\E-Commerce  Project\InfraStructure\obj\Debug\net8.0\InfraStr.570FDCE2.Up2Date
+D:\E-Commerce  Project\InfraStructure\obj\Debug\net8.0\InfraStructure.dll
+D:\E-Commerce  Project\InfraStructure\obj\Debug\net8.0\refint\InfraStructure.dll
+D:\E-Commerce  Project\InfraStructure\obj\Debug\net8.0\InfraStructure.pdb
+D:\E-Commerce  Project\InfraStructure\obj\Debug\net8.0\ref\InfraStructure.dll

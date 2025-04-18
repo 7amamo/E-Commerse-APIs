@@ -61,11 +61,6 @@ Focused on scalability, security, and high performance using modern tools and be
 
 ---
 
-## 📎 GitHub Repo
-👉 [github.com/YourUsername/E-Commerce](https://github.com/7amamo/E-Commerse-APIs)
-
----
-
 ## 📫 Contact
 **Ahmed Tarek Hammamo**  
 [LinkedIn](https://www.linkedin.com/in/ahmed-hamamo-76941b243/)  

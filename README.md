@@ -46,12 +46,6 @@ Focused on scalability, security, and high performance using modern tools and be
 
 ---
 
-## 📸 API Documentation
-- Swagger UI: `https://localhost:{port}/swagger`
-- Postman Collection: [Coming Soon]
-
----
-
 ## 💡 What I Learned
 - Building scalable and secure REST APIs
 - Applying Clean Architecture principles
